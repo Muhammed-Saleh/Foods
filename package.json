@@ -1,0 +1,22 @@
+{
+  "name": "foods",
+  "version": "1.0.0",
+  "description": "foods website",
+  "main": "script.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhammed-Saleh/Foods.git"
+  },
+  "author": "Muhammed Saleh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muhammed-Saleh/Foods/issues"
+  },
+  "homepage": "https://github.com/Muhammed-Saleh/Foods#readme",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
