@@ -13,5 +13,14 @@
     align-items: center;
     text-transform: capitalize;
     letter-spacing: 0.5rem;
+    text-shadow: 0.3rem 0.3rem 0.3rem #333;
+  }
+
+  .section01__icon {
+    font-size: 35rem;
+    color: #a79a2d;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    text-shadow: 0.2rem 0.2rem 0.2rem #333;
   }
 }
