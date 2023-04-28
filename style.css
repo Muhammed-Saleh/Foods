@@ -32,6 +32,8 @@ html {
     color: #a79a2d;
     position: absolute;
     transform: translate(-50%, -50%) scale(0);
-    text-shadow: 0.2rem 0.2rem 0.2rem #333; }
+    text-shadow: 0.2rem 0.2rem 0.2rem #000;
+    transition: transform 0.3s; }
     .section01 .section01__icon--change {
-      transform: translate(-50%, -50%) scale(1); }
+      transform: translate(-50%, -50%) scale(1);
+      transition: transform 0.3s 0.3s; }

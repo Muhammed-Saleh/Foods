@@ -17,4 +17,4 @@ setInterval(() => {
   } else {
     icon.nextElementSibling.classList.add("section01__icon--change");
   }
-}, 1000);
+}, 3000);
